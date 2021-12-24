@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bizbeast-dapp-test-6/static/css/main.34bf23df.chunk.css",
+    "main.js": "/bizbeast-dapp-test-6/static/js/main.aeffc3c5.chunk.js",
+    "main.js.map": "/bizbeast-dapp-test-6/static/js/main.aeffc3c5.chunk.js.map",
+    "runtime-main.js": "/bizbeast-dapp-test-6/static/js/runtime-main.77ffc29f.js",
+    "runtime-main.js.map": "/bizbeast-dapp-test-6/static/js/runtime-main.77ffc29f.js.map",
+    "static/js/2.48bef2e6.chunk.js": "/bizbeast-dapp-test-6/static/js/2.48bef2e6.chunk.js",
+    "static/js/2.48bef2e6.chunk.js.map": "/bizbeast-dapp-test-6/static/js/2.48bef2e6.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/bizbeast-dapp-test-6/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/bizbeast-dapp-test-6/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/bizbeast-dapp-test-6/index.html",
+    "static/css/main.34bf23df.chunk.css.map": "/bizbeast-dapp-test-6/static/css/main.34bf23df.chunk.css.map",
+    "static/js/2.48bef2e6.chunk.js.LICENSE.txt": "/bizbeast-dapp-test-6/static/js/2.48bef2e6.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/bizbeast-dapp-test-6/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ffc29f.js",
+    "static/js/2.48bef2e6.chunk.js",
+    "static/css/main.34bf23df.chunk.css",
+    "static/js/main.aeffc3c5.chunk.js"
+  ]
+}
